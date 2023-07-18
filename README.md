@@ -69,7 +69,7 @@
 ## 神奇的小目录
 
 -   [準備項目](#準備項目)
--   [ROtaiwan](#ROtaiwan)
+-   [ROtaiwan說明](#ROtaiwan說明)
 
 
 ## 準備項目
@@ -83,11 +83,18 @@
 下載位置：http://nemo.herc.ws/
 
 
-## ROtaiwan
+## ROtaiwan說明
 
-2021-11-17_RagexeRE.exe~~~~~~~~~~~~~~~~~~~已脫殼沒使用NEMO
+@已脫殼沒使用NEMO
+2021-11-17_RagexeRE.exe
 
-NEMO/2023.log及NEMO/2023_inputs.db~~~~~~~~是改登入器的必備文件(已設定好)
+@是改登入器的必備文件(已設定好)
+NEMO/2023.log
+NEMO/2023_inputs.db
+
+@不會用NEMO去形成Diff捨直接執行(已製作完成)
+MyRagnarok 2023.exe
+
 
 
 

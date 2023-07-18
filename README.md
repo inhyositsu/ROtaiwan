@@ -39,8 +39,8 @@
       官網(未定案)
     </a>
     <span> | </span>
-    <a href="https://docs.xxxxx" target="_blank">
-      使用手册(未定案)
+    <a href="https://rotaiwan.gitbook.io/ro-taiwan-de-shi-jie/" target="_blank">
+      使用手册
     </a>
     <span> | </span>
     <a href="https://github.com/xvn5002036/ROtaiwan/releases">

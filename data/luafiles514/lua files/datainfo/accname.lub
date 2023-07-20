@@ -2356,5 +2356,6 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_C_Sakura_Witch_Hat] = "_C_Sakura_Witch_Hat",
 	[ACCESSORY_IDs.ACCESSORY_Heart_Chiffon_Rabbit] = "_Heart_Chiffon_Rabbit",
 	[ACCESSORY_IDs.ACCESSORY_Chocolat_Rabbit_Hair] = "_Chocolat_Rabbit_Hair",
-	[ACCESSORY_IDs.ACCESSORY_Cookie_PinkRibbon] = "_Cookie_PinkRibbon"
+	[ACCESSORY_IDs.ACCESSORY_Cookie_PinkRibbon] = "_Cookie_PinkRibbon",
+	[ACCESSORY_IDs.ACCESSORY_GM] = "_GM",
 }

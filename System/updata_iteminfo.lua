@@ -37,21 +37,19 @@ tbl = {
 
 	--ADD YOUR ITEMS HERE!!
 	--Example
-	[501] = {	--adding this here will add the [ServerNameRO] TAG TO THE ITEM AND WILL READ IT FROM THIS FILE
-		unidentifiedDisplayName = "Not Red Potion",
-		unidentifiedResourceName = "說除ん暮",
-		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Not Red Potion",
-		identifiedResourceName = "說除ん暮",
+	[32500] = {
+		unidentifiedDisplayName = "GM",
+		unidentifiedResourceName = "GM",
+		unidentifiedDescriptionName = {
+		},
+		identifiedDisplayName = "GM",
+		identifiedResourceName = "GM",
 		identifiedDescriptionName = {
-			"A bottle of potion made from grinded Red Herbs.",
-			" ",
-			"^0000CCType:^000000 Restorative",
-			"^0000CCHeal:^000000 45 ~ 65 HP",
-			"^0000CCWeight:^000000 7"
+			"型態 :^777777 GM^000000",
+			"能力素質 :^777777 最大化(無敵)^000000"
 		},
 		slotCount = 0,
-		ClassNum = 0,
+		ClassNum = 2500,
 		costume = false
 	},
 	[30002] = {	--adding this here will add the item into the client without adding it directly to kro item info and will add [ServerNameRO Custom Additions] tag to it

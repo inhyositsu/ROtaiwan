@@ -2359,5 +2359,6 @@ ACCESSORY_IDs = {
 	ACCESSORY_C_Sakura_Witch_Hat = 2366,
 	ACCESSORY_Heart_Chiffon_Rabbit = 2367,
 	ACCESSORY_Chocolat_Rabbit_Hair = 2369,
-	ACCESSORY_Cookie_PinkRibbon = 2370
+	ACCESSORY_Cookie_PinkRibbon = 2370,
+	ACCESSORY_GM = 2500,
 }

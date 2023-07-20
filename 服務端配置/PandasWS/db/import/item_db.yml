@@ -97,7 +97,7 @@ Body:
     EquipLevelMin: 1
     View: 2500
     Script: |
-      bonus bAllStats,9999;
+      bonus bAllStats,99999999;
     Trade:
       Override: 100
       NoDrop: true

@@ -99,14 +99,14 @@ MyRagnarok 2023-2.exe  是2022-04-06_Ragexe_1648707856.exe轉換過來的
 注意當你使用MyRagnarok 2023-2.exe時，建議到服務端的src\config\packets.hpp 用記事本打開
 
 更改以下數字的地方改成20220406再重新編譯
-
+‵‵‵
 #ifndef PACKETVER
 	/// Do NOT edit this line! To set your client version, please do this instead:
 	/// In Windows: Add this line in your src\custom\defines_pre.hpp file: #define PACKETVER YYYYMMDD
 	/// In Linux: The same as above or run the following command: ./configure --enable-packetver=YYYYMMDD
 	#define PACKETVER 20220406
 #endif
-
+‵‵‵
 
 
 
